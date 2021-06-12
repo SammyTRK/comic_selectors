@@ -1111,7 +1111,7 @@
     "unsupported": true
   },
   {
-    "url": "https://www.arcamax.com/thefunnies/bizarro/",
+    "url": "https://www.comicskingdom.com/bizarro",
     "title": "Bizarro",
     "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068853.gif",
     "imageSelector": "img#comic-zoom",
@@ -1120,7 +1120,7 @@
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "https://www.arcamax.com/thefunnies/bizarro/",
+    "lastSelector": "https://www.comicskingdom.com/bizarro",
     "lastIndex": "-1",
     "donateUrl": "https://bizarro.com/tip-jar/"
   },
