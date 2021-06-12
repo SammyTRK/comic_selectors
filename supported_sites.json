@@ -1114,7 +1114,7 @@
     "url": "https://www.comicskingdom.com/bizarro",
     "title": "Bizarro",
     "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068853.gif",
-    "imageSelector": "#comic img",
+    "imageSelector": "div#comic > img",
     "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
