@@ -6776,7 +6776,7 @@
   {
     "url":"http://stonetoss.com/",
     "title":"StoneToss",
-    "imageUrl":"http://i2.wp.com/stonetoss.com/wp-content/uploads/2018/10/trump-nationalist-comic1.png",
+    "imageUrl":"https://i0.wp.com/stonetoss.com/wp-content/uploads/2021/06/homeschooling-stonetoss-political-cartoon.png",
     "imageSelector":"#comic img",
     "imageIndex":"0",
     "firstSelector":"http://stonetoss.com/comic/the-swirl/",
@@ -6787,6 +6787,7 @@
     "nextIndex":"0",
     "lastSelector":"http://stonetoss.com/",
     "lastIndex":"-1",
+    "donateUrl": "https://gumroad.com/l/BJOiRM",
     "nsfw":false
   }
 ]
