@@ -901,7 +901,7 @@
     "nextIndex": "0",
     "lastSelector": "a.cc-last",
     "lastIndex": "0",
-    "nsfw": true
+    "nsfw": false
   },
   {
     "url": "http://www.reallifecomics.com/index.php",
@@ -6772,5 +6772,21 @@
     "lastIndex": "-1",
     "donateUrl": "https://www.patreon.com/InCaseArt",
     "nsfw": true
+  },
+  {
+    "url":"http://http://stonetoss.com//",
+    "title":"StoneToss",
+    "imageUrl":"http://https://i2.wp.com/stonetoss.com/wp-content/uploads/2018/10/trump-nationalist-comic1.png",
+    "imageSelector":"div#comic > img",
+    "imageIndex":"0",
+    "firstSelector":".nav-first a",
+    "firstIndex":"0",
+    "prevSelector":"div.nav-previous > a",
+    "prevIndex":"0",
+    "nextSelector":"div.nav-next > a",
+    "nextIndex":"0",
+    "lastSelector":".nav-last a",
+    "lastIndex":"0",
+    "nsfw":false
   }
 ]
