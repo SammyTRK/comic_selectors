@@ -6774,19 +6774,19 @@
     "nsfw": true
   },
   {
-    "url":"http://http://stonetoss.com//",
+    "url":"http://stonetoss.com/",
     "title":"StoneToss",
-    "imageUrl":"http://https://i2.wp.com/stonetoss.com/wp-content/uploads/2018/10/trump-nationalist-comic1.png",
-    "imageSelector":"div#comic > img",
+    "imageUrl":"http://i2.wp.com/stonetoss.com/wp-content/uploads/2018/10/trump-nationalist-comic1.png",
+    "imageSelector":"#comic img",
     "imageIndex":"0",
-    "firstSelector":".nav-first a",
-    "firstIndex":"0",
-    "prevSelector":"div.nav-previous > a",
+    "firstSelector":"http://stonetoss.com/comic/the-swirl/",
+    "firstIndex":"-1",
+    "prevSelector":".comic-nav-previous",
     "prevIndex":"0",
-    "nextSelector":"div.nav-next > a",
+    "nextSelector":".comic-nav-next",
     "nextIndex":"0",
-    "lastSelector":".nav-last a",
-    "lastIndex":"0",
+    "lastSelector":"http://stonetoss.com/",
+    "lastIndex":"-1",
     "nsfw":false
   }
 ]
